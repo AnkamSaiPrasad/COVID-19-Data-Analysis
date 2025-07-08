@@ -18,7 +18,14 @@ Which is also a data visualization application that explores and analyzes COVID-
 
 ## Key Visualizations & Outputs
 
-
+* Conformed Cases
+* Active, Recovered and Deaths Report
+* Stats of Countries through Heatmap
+* Pandamic Growth per Country
+* Recoveries per Country
+* Deaths per Country
+* Recovery Rate per Country
+* Death Rate per Country
 
 ## Technologies Used
 
@@ -48,10 +55,4 @@ Which is also a data visualization application that explores and analyzes COVID-
 
 4. Execute the cells in the notebook to view results and plots.
 
-## 📌 Dataset Source
 
-The dataset `country_wise_latest.csv` contains COVID-19 data like:
-
-* Confirmed, Active, Recovered, Deaths
-* Recovery Rate and Death Rate
-* Country-wise statistics
