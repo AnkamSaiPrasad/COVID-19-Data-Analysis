@@ -38,21 +38,27 @@ Which is also a data visualization application that explores and analyzes COVID-
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/covid19-global-dashboard.git
+   git clone https://github.com/AnkamSaiPrasad/covid19-global-dashboard.git
    cd covid19-global-dashboard
    ```
+   #### If the above command didn't work
+   you can also do this by placing the `Sourcecode.ipynb` and `country_wise_latest.csv` in same folder.
 
 2. Install the required Python packages:
 
-   `
-   pip install pandas matplotlib seaborn`
+   ```
+   pip install pandas matplotlib seaborn
+   ```
 
 3. Launch the notebook:
 
    ```
    jupyter notebook Sourcecode.ipynb
    ```
+  
+4. Run each cell to see the model training and forecasting in action.
 
-4. Execute the cells in the notebook to view results and plots.
-
-
+## Author
+#### Ankam Sai prasad
+#### B.Tech in Data Science
+#### Email: ankamsaiprasad13@gmail.com
