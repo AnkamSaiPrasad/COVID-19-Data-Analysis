@@ -47,7 +47,7 @@ Which is also a data visualization application that explores and analyzes COVID-
 2. Install the required Python packages:
 
    ```
-   pip install pandas matplotlib seaborn
+   pip install pandas matplotlib seaborn jupyter
    ```
 
 3. Launch the notebook:
