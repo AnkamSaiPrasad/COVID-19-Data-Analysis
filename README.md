@@ -56,7 +56,7 @@ Which is also a data visualization application that explores and analyzes COVID-
    jupyter notebook Sourcecode.ipynb
    ```
   
-4. Run each cell to see the model training and forecasting in action.
+4. Run each cell for better understanding.
 
 ## Author
 #### Ankam Sai prasad
